@@ -57,3 +57,6 @@ run-tests.php
 # Example specific ignores
 examples/*-php.png
 examples/temp.*
+
+# IDE
+.idea
